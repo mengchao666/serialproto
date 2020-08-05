@@ -1,0 +1,5 @@
+/home/ubuntu/serialproto/cmake-build-debug/CMakeFiles/SerialProto.dir
+/home/ubuntu/serialproto/cmake-build-debug/googletest/googlemock/CMakeFiles/gmock.dir
+/home/ubuntu/serialproto/cmake-build-debug/googletest/googlemock/CMakeFiles/gmock_main.dir
+/home/ubuntu/serialproto/cmake-build-debug/googletest/googletest/CMakeFiles/gtest.dir
+/home/ubuntu/serialproto/cmake-build-debug/googletest/googletest/CMakeFiles/gtest_main.dir

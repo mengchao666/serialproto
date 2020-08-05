@@ -1,0 +1,4 @@
+/opt/poky/1.7.3/sysroots/x86_64-pokysdk-linux/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/ubuntu/serialproto
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/ubuntu/serialproto/cmake-build-debug
